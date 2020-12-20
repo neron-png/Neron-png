@@ -7,8 +7,6 @@ I am quite interested in the use of code as a tool of improving the efficacy of 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Neron-png&count_private=true&show_icons=true&include_all_commits=true)
 
-I am also quite actively involved in the **ACM AUTh Student Chapter**, you can find our GitHub page [here](https://github.com/acmauth).
-
 ### My projects
 
 My profile consists primarily of private projects, but it also contains various public ones, all of which I am working on in my free time.
