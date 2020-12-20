@@ -1,4 +1,4 @@
-### Hello and Welcome to my Github Profile!
+## Hello and Welcome to my Github Profile!
 #### My name's Neron-Michail Panagiotopoulos, but you can call me Neron
 
 I study Computer Science at the Aristotle University of Thessaloniki, in Greece.
