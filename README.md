@@ -19,7 +19,8 @@ I primarily like working with **Python** and **kotlin**, but am constantly worki
 
 ### Miscellaneous
 
-- 🔴 I am an active member of the **AUTh ACM student chapter**, primarily involved in the **graphics** team. \nMuch of my work can be found on [our site](https://auth.acm.org/).
+- 🔴 I am an active member of the **AUTh ACM student chapter**, primarily involved in the **graphics** team. 
+Plenty of my work can be found on [our site](https://auth.acm.org/) <sup>see team logos</sup>.
 - 🔴 I am born in **2002**, making me 18 yrs old by the time this was last updated
 - 🔴 Besides programming, I am greatly interested in graphic design and digital special effects
 - 🔴 I am a massive fan of British comedy as well as motorsport
