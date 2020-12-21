@@ -5,7 +5,7 @@ I study Computer Science at the Aristotle University of Thessaloniki, in Greece.
 
 I am quite interested in the use of code as a tool of improving the efficacy of the **daily tasks** we come up against in the digital world.
 
-![stats](https://github-readme-stats.vercel.app/api?username=Neron-png&count_private=true&show_icons=true&include_all_commits=true&theme=radica)
+![stats](https://github-readme-stats.vercel.app/api?username=Neron-png&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ### My projects
 
