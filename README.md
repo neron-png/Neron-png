@@ -11,7 +11,7 @@ I am quite interested in the use of code as a tool of improving the efficacy of 
 
 My profile consists primarily of private projects, but it also contains various public ones, all of which I am working on in my free time.
 
-My projects primarily consist of python scripts and bots that range from posting random, interesting facts, eg. [**GRWikiEdits**](https://github.com/Neron-png/GRWikiEdits) to a fully fledged reddit moderation bot, that is used to maintain a **50k +** member community and will be getting open sourced soon.
+My projects primarily consist of python scripts and bots that range from posting random, interesting facts, eg. [**GRWikiEdits**](https://github.com/Neron-png/GRWikiEdits) to a fully fledged reddit moderation bot, that is used to maintain a **50k +** member community.
 
 ### Languages
 
