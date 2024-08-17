@@ -1,2 +1,204 @@
-Όνομα SP: Aristomate
-Callback: applink.aristomate.gr
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+        #content {
+            font-family: "Linux Libertine", "Georgia", "Times New Roman", Times, serif;
+            background-color: #f8f9fa;
+            color: #202122;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        a {
+            color: #0645ad;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        #content {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+        }
+
+        #firstHeading {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+            border-bottom: 1px solid #a2a9b1;
+            padding-bottom: 0.2em;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }
+
+        h3 {
+            font-size: 1.2em;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }
+
+        p {
+            margin: 0.5em 0;
+        }
+
+        ul {
+            margin-top: 0;
+            margin-bottom: 1em;
+            padding-left: 1.5em;
+        }
+
+        li {
+            margin-bottom: 0.5em;
+        }
+
+        .infobox {
+            width: 22em;
+            background-color: #f8f9fa;
+            border: 1px solid #a2a9b1;
+            padding: 0.5em;
+            float: right;
+            margin: 0 0 1em 1em;
+            font-size: 0.9em;
+        }
+
+        .infobox th {
+            text-align: left;
+            font-weight: bold;
+            padding: 0.2em 0.4em;
+            background-color: #cedff2;
+            border-bottom: 1px solid #a2a9b1;
+        }
+
+        .infobox td {
+            padding: 0.2em 0.4em;
+            vertical-align: top;
+        }
+
+        .infobox img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #a2a9b1;
+            margin-bottom: 0.5em;
+        }
+
+        .toc {
+            background-color: #f9f9f9;
+            border: 1px solid #a2a9b1;
+            padding: 0.5em;
+            margin-bottom: 1em;
+            font-size: 0.9em;
+        }
+
+        .toc h2 {
+            margin-top: 0;
+            font-size: 1em;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .toc ul {
+            list-style: none;
+            margin-left: 0;
+            padding-left: 0;
+        }
+
+        .toc ul ul {
+            margin-left: 1em;
+        }
+
+        .toc li {
+            margin: 0;
+            padding: 0;
+        }
+
+        .toc a {
+            text-decoration: none;
+        }
+
+        .toc a:hover {
+            text-decoration: underline;
+        }
+    </style>
+	<div id="content">
+    <h1 id="firstHeading" class="firstHeading">Your Name</h1>
+
+    <div class="infobox">
+        <img src="your-photo.jpg" alt="Your Name">
+        <table>
+            <tr>
+                <th>Born</th>
+                <td>Your Birthdate</td>
+            </tr>
+            <tr>
+                <th>Nationality</th>
+                <td>Your Nationality</td>
+            </tr>
+            <tr>
+                <th>Occupation</th>
+                <td>Your Occupation</td>
+            </tr>
+            <tr>
+                <th>Years active</th>
+                <td>Your Years Active</td>
+            </tr>
+            <tr>
+                <th>Website</th>
+                <td><a href="https://yourwebsite.com">yourwebsite.com</a></td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="toc" id="toc">
+        <h2>Contents</h2>
+        <ul>
+            <li><a href="#summary">1 Summary</a></li>
+            <li><a href="#education">2 Education</a></li>
+            <li><a href="#experience">3 Experience</a></li>
+            <li><a href="#skills">4 Skills</a></li>
+            <li><a href="#publications">5 Publications</a></li>
+            <li><a href="#contact">6 Contact</a></li>
+        </ul>
+    </div>
+
+    <h2 id="summary">Summary</h2>
+    <p>Write a brief summary about yourself here.</p>
+
+    <h2 id="education">Education</h2>
+    <h3>Degree Name, University Name</h3>
+    <p>Year of Graduation - Description or honors if any.</p>
+
+    <h2 id="experience">Experience</h2>
+    <h3>Job Title, Company Name</h3>
+    <p>Years Worked - Brief description of your responsibilities and achievements.</p>
+
+    <h2 id="skills">Skills</h2>
+    <ul>
+        <li>Skill 1</li>
+        <li>Skill 2</li>
+        <li>Skill 3</li>
+        <li>Skill 4</li>
+    </ul>
+
+    <h2 id="publications">Publications</h2>
+    <ul>
+        <li>"Publication Title" - Journal Name, Year</li>
+        <li>"Publication Title" - Journal Name, Year</li>
+    </ul>
+
+    <h2 id="contact">Contact</h2>
+    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p>Phone: Your Phone Number</p>
+
+        </div>
+    </div>
+</foreignObject>
+</svg>
